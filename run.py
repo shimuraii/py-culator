@@ -12,3 +12,6 @@ def division(a, b):
 def subtraction(a, b):
     return a - b
     
+    
+def running():
+    print("Why are you running?")
