@@ -8,4 +8,12 @@ def multiplication(a, b):
 
 def division(a, b):
     return a/b
+
+def subtraction(a, b):
+    return a - b
+  # hihi alteration
     
+def running():
+    print("Why are you running?")
+
+running()
