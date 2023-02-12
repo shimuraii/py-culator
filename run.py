@@ -15,3 +15,5 @@ def subtraction(a, b):
     
 def running():
     print("Why are you running?")
+
+running()
